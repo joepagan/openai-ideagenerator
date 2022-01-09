@@ -1,0 +1,26 @@
+{
+  "name": "openai-ideagenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joepagan/openai-ideagenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joepagan/openai-ideagenerator/issues"
+  },
+  "homepage": "https://github.com/joepagan/openai-ideagenerator#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "openai-api": "^1.2.6"
+  }
+}
